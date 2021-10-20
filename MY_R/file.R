@@ -1,4 +1,3 @@
-mylist<-list(1,2,3,4)
-mylist1<-list('A','V','C',3)
-mylist.append(mylist1)
-print(mylist)
+myvect<-c(1,2,3,4)
+myvect1<-c(3,4,5,5)
+print(myvect+myvect1)
